@@ -1,0 +1,16 @@
+{
+    "name": "asdfx/omnibanking",
+    "description": "An easy to use, consistent banking integration library for PHP",
+    "type": "library",
+    "require": {
+        "php-http/guzzle6-adapter": "^2.0",
+        "php": "^7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Mills",
+            "email": "alex@asdfx.us"
+        }
+    ]
+}
